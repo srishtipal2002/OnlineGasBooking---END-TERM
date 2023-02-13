@@ -1,0 +1,10 @@
+.reg{
+    background-color:rgb(255, 105, 130);
+    padding: 3.5em;
+}
+table td{
+    border:solid 1px gray
+}
+table Button{
+    width: 100%;
+}
